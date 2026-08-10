@@ -1,0 +1,13 @@
+numpy>=1.23.0
+opencv-python>=4.7.0
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+scikit-fuzzy>=0.4.2
+filterpy>=1.4.5
+scipy>=1.10.0
+matplotlib>=3.7.0
+plotly>=5.14.0
+streamlit>=1.22.0
+pillow>=9.5.0
+pytest>=7.3.0
